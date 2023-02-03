@@ -12,7 +12,7 @@ The purpose of this analysis is to gather the number of employees that are withi
 ## Summary
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 A total of 72,458 employees are retiring. See the title breakdown below:
-Retirees: https://github.com/ecregger/Pewlett-Hackard-Analysis/blob/main/Retiree_Count_By_Title.png
+<p> Retirees: https://github.com/ecregger/Pewlett-Hackard-Analysis/blob/main/Retiree_Count_By_Title.png </p>
 Current Employees: https://github.com/ecregger/Pewlett-Hackard-Analysis/blob/main/Current_Employee_Count_By_Title.png
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
